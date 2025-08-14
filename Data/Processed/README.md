@@ -36,4 +36,3 @@ This process was performed to:
 
 ---
 
-## 📂 Directory Structure
