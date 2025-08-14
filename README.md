@@ -26,3 +26,6 @@ By combining datasets and applying a **Smooth Data Augmentation** strategy, this
 
 ---
 
+## 📂 Dataset Documentation
+- [📄 Raw Dataset README](data/README.md) — Contains dataset sources and original class distribution (Table I).
+- [📄 Processed Dataset README](data/processed/README.md) — Contains final training/testing counts after preprocessing and augmentation (Table II).
