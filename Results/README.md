@@ -28,7 +28,7 @@ This round still classifies into all five classes, but is the **first stage** of
 The model outputs here are later grouped for Round 2 refinement.
 
 **F1-Scores**  
-![Round 1 F1 Scores](Results/Round1/F1-Score%20for%20Round1.png)  
+![Round 1 F1 Scores](Results/Round1/F1Score.PNG)  
 
 **Precision & Recall Table**  
 ![Round 1 Precision Recall](Results/Round1/Precision%20and%20Recall%20for%20Round1.png)  
