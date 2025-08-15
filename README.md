@@ -37,13 +37,13 @@ By combining datasets and applying a **Smooth Data Augmentation** strategy, this
 ├── Data Management/              # Dataset organization & splitting
 ├── Data Preprocessing/           # Image preprocessing scripts
 ├── Data/                         
-│   ├── Raw/                      # Raw dataset info (not actual data files)
+│   ├── Raw/                      # Raw dataset info 
 │   │   └── README.md              # Dataset sources & original distribution
 │   ├── Processed/                 # Processed dataset info
 │       └── README.md              # Post-preprocessing & augmentation counts
 ├── Docs/                          # Full project report & documentation
-├── Model/                         # Model training notebook/script
+├── Model/                         # Model training notebook
 ├── Results/                       # Performance metrics & visualizations
-├── Weights/                       # Trained model weights (Google Drive link)
+├── Weights/                       # Trained model weights 
 ├── LICENSE
 └── README.md
