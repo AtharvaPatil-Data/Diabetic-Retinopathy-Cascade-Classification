@@ -45,7 +45,4 @@ Run the scripts in this order for best results:
 2. `resize_images.py`
 3. `apply_median_filter.py`
 
----
 
-## 📊 Output Structure
-After preprocessing, your folder structure should look like:
