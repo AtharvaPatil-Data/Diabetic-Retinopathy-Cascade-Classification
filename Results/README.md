@@ -11,10 +11,10 @@ This section presents the performance of our models in three stages:
 In this stage, the models classify directly into all five DR severity levels without grouping.
 
 **F1-Scores**  
-![Five-Class F1 Scores](five_class/f1_scores.png)  
+![Five-Class F1 Scores](Five_class/f1_scores.png)  
 
 **Precision & Recall Table**  
-![Five-Class Precision Recall](five_class/precision_recall.png)  
+![Five-Class Precision Recall](Five_class/precision_recall.png)  
 
 **Key Observations:**
 - **ResNet50** achieved balanced performance across all classes.
@@ -28,10 +28,10 @@ This round still classifies into all five classes, but is the **first stage** of
 The model outputs here are later grouped for Round 2 refinement.
 
 **F1-Scores**  
-![Round 1 F1 Scores](round1/f1_scores.png)  
+![Round 1 F1 Scores](Round1/f1_scores.png)  
 
 **Precision & Recall Table**  
-![Round 1 Precision Recall](round1/precision_recall.png)  
+![Round 1 Precision Recall](Round1/precision_recall.png)  
 
 **Key Observations:**
 - **ResNet50** consistently outperforms others in detecting Moderate, Severe, and Proliferative DR.
@@ -47,10 +47,10 @@ In this stage:
 - Grouped early stages are refined into No DR, Mild DR, and Moderate DR.
 
 **F1-Scores**  
-![Round 2 F1 Scores](round2/f1_scores.png)  
+![Round 2 F1 Scores](Round2/f1_scores.png)  
 
 **Precision & Recall Table**  
-![Round 2 Precision Recall](round2/precision_recall.png)  
+![Round 2 Precision Recall](Round2/precision_recall.png)  
 
 **Key Observations:**
 - All models perform exceptionally well for the grouped early stages (F1 ~0.97).
