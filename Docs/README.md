@@ -5,7 +5,7 @@ This folder contains detailed documentation for the **Diabetic Retinopathy Casca
 ---
 
 ## 📌 Contents
-- **`diabetic_retinopathy_cascade_classification_report.pdf`**  
+- **`Diabetic_Retinopathy_Cascade_Classification.pdf`**  
   Full project report containing:
   - Introduction and motivation
   - Literature review
