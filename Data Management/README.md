@@ -14,7 +14,7 @@ Organizes raw dataset images into class-wise folders based on the label CSV file
 - Reads the dataset CSV containing image IDs and corresponding DR class labels.
 - Copies/moves images into class-specific subfolders:
 
-### 2. 'split_data.py'
+### 2. `split_data.py`
 
 **Purpose:**
 This script splits an **already organised dataset** into **training** and **testing** sets while preserving the **class distribution** (stratified split).
