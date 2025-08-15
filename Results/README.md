@@ -11,10 +11,10 @@ This section presents the performance of our models in three stages:
 In this stage, the models classify directly into all five DR severity levels without grouping.
 
 **F1-Scores**  
-![Five-Class F1 Scores](Results/five_class/f1_scores.png)  
+![Five-Class F1 Scores](Results/Five_class/f1_scores.png)  
 
 **Precision & Recall Table**  
-![Five-Class Precision Recall](Results/five_class/precision_recall.png)  
+![Five-Class Precision Recall](Results/Five_class/precision_recall.png)  
 
 **Key Observations:**
 - **ResNet50** achieved balanced performance across all classes.
