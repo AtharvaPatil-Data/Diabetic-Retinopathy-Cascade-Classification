@@ -28,7 +28,7 @@ This round still classifies into all five classes, but is the **first stage** of
 The model outputs here are later grouped for Round 2 refinement.
 
 **F1-Scores**  
-![Round 1 F1 Scores](Round1/f1_scores.png)  
+![Round 1 F1 Scores](Round1/f1_score.png)  
 
 **Precision & Recall Table**  
 ![Round 1 Precision Recall](Round1/precision_recall.png)  
@@ -47,7 +47,7 @@ In this stage:
 - Grouped early stages are refined into No DR, Mild DR, and Moderate DR.
 
 **F1-Scores**  
-![Round 2 F1 Scores](Round2/f1_scores.png)  
+![Round 2 F1 Scores](Round2/f1_score.png)  
 
 **Precision & Recall Table**  
 ![Round 2 Precision Recall](Round2/precision_recall.png)  
