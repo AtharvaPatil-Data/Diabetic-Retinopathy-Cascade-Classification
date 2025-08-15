@@ -11,7 +11,7 @@ This section presents the performance of our models in three stages:
 In this stage, the models classify directly into all five DR severity levels without grouping.
 
 **F1-Scores**  
-![Five-Class F1 Scores](Results/Five_Class_Classification/F1Score.png)  
+**[Five-Class Classification (Direct)](Results/Five_Class_Classification/)  
 
 **Precision & Recall Table**  
 ![Five-Class Precision Recall](Results/Five_Class_Classification/Five%20Class%20Classification%20Results.png)  
