@@ -29,7 +29,7 @@ Resizes all images to the **224×224** resolution required by ResNet50 and other
 
 ---
 
-### 3. `apply_median_filter.py`
+### 3. `median_filter.py`
 **Purpose:**  
 Enhances small retinal features (microaneurysms, hemorrhages) by reducing noise.
 
